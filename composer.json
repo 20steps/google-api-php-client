@@ -1,7 +1,7 @@
 {
     "name": "nyholm/google-api-php-client",
     "type": "library",
-    "description": "Google API library for PHP. This packet is maintained! Version 0.6.2 of the Google Api client.",
+    "description": "Google API library for PHP (with namespaces). This packet is maintained! Version 0.6.2 of original code.",
     "keywords": ["google","gdata"],
     "homepage": "http://nyholm.github.io/google-api-php-client",
     "license": "Apache 2.0",
