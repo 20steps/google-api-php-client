@@ -1,9 +1,7 @@
 Google APIs Client Library for PHP
 =====================================
 
-This is version 0.6.2 of the Google Api.
-
-**I do have interest in maintaining this repository.**
+This is version 0.6.2 of the Google Api. If you want to use the lastes version of this lib checkout [this repo](https://github.com/google/google-api-php-client).
 
 If you want a symfony2 bundle for this lib, check out my other repo: https://github.com/HappyR/GoogleApiBundle
 
@@ -11,7 +9,7 @@ If you want a symfony2 bundle for this lib, check out my other repo: https://git
 The Google API Client Library enables you to work with Google APIs such as Google+, Drive, Tasks, or Latitude on your server.
 
 
-This is a forked version from:
+This is a forked version from 0.6.2:
 * http://code.google.com/p/google-api-php-client/
 
 Current version is hosted here:
